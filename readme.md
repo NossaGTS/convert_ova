@@ -19,8 +19,8 @@ The script performs the following steps:
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/yourusername/ova-to-qcow2-converter.git
-cd ova-to-qcow2-converter
+git clone https://github.com/NossaGTS/convert_ova.git
+cd convert_ova
 ```
 
 ## Usage
