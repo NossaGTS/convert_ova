@@ -79,4 +79,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - This script utilizes the `qemu-img` tool for converting VMDK files to QCOW2 format.
-```
