@@ -11,7 +11,7 @@ The script performs the following steps:
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.12
 - `qemu-img` tool installed on your system
 
 ## Installation
